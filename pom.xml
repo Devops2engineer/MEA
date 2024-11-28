@@ -8,11 +8,11 @@
         <packaging>jar</packaging>
 
         <name>maven-stanalone-application</name>
-        <url>https://mindandbodymovements.com/</url>
+        <url>https://mbm-shop.com/</url>
 
         <organization>
                 <name>MBM</name>
-                <url>https://mindandbodymovements.com/</url>
+                <url>https://mbm-shop.com/</url>
         </organization>
 
         <description>Maven Standalone Application</description>
